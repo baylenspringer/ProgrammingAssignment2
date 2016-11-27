@@ -26,7 +26,7 @@ makeCacheMatrix <- function(x = matrix()) {
 }
 
 
-## Write a short comment describing this function
+
 ## check to see if the matrix inverse already exists
 ## if yes, return the inverse of the matrix
 ## otherwise set the value of the new matrix
